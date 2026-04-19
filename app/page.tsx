@@ -57,7 +57,7 @@ function HeroSection() {
 
         {/* Headline */}
         <h1 className="font-[family-name:var(--font-unbounded)] font-black leading-[1.05] mb-6 text-balance">
-          <span className="block text-[36px] md:text-[64px] tracking-[-2px]" style={{ color: '#FFFFFF' }}>The  entire was built</span>
+          <span className="block text-[36px] md:text-[64px] tracking-[-2px]" style={{ color: '#FFFFFF' }}>The  entire internet was built</span>
           <span className="block text-[36px] md:text-[64px] tracking-[-2px] mb-6" style={{ color: '#FFFFFF' }}>without a truth layer.</span>
           <span className="block text-[44px] md:text-[78px] tracking-[-3px]">
             <span style={{ color: '#FFFFFF' }}>{"We're adding "}</span>
